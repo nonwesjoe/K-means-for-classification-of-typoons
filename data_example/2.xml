@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<wind>
+    Susan
+    <date>
+        1961022618
+        <x>60</x>
+        <y>1320</y>
+        <level>0</level>
+        <presure>1004</presure>
+        <speed>0
+</speed>
+    </date>
+    <date>
+        1961022700
+        <x>65</x>
+        <y>1315</y>
+        <level>0</level>
+        <presure>1004</presure>
+        <speed>0
+</speed>
+    </date>
+    <date>
+        1961022706
+        <x>70</x>
+        <y>1310</y>
+        <level>1</level>
+        <presure>1000</presure>
+        <speed>15
+</speed>
+    </date>
+    <date>
+        1961022712
+        <x>74</x>
+        <y>1307</y>
+        <level>1</level>
+        <presure>1000</presure>
+        <speed>15
+</speed>
+    </date>
+    <date>
+        1961022718
+        <x>78</x>
+        <y>1306</y>
+        <level>0</level>
+        <presure>1005</presure>
+        <speed>0
+</speed>
+    </date>
+    <date>
+        1961022800
+        <x>83</x>
+        <y>1305</y>
+        <level>0</level>
+        <presure>1006</presure>
+        <speed>0
+</speed>
+    </date>
+    <date>
+        1961022806
+        <x>87</x>
+        <y>1305</y>
+        <level>0</level>
+        <presure>1006</presure>
+        <speed>0
+</speed>
+    </date>
+    <date>
+        1961022812
+        <x>91</x>
+        <y>1305</y>
+        <level>0</level>
+        <presure>1006</presure>
+        <speed>0
+</speed>
+    </date>
+    <date>
+        1961022818
+        <x>95</x>
+        <y>1306</y>
+        <level>0</level>
+        <presure>1006</presure>
+        <speed>0
+</speed>
+    </date>
+    <date>
+        1961030100
+        <x>98</x>
+        <y>1308</y>
+        <level>0</level>
+        <presure>1006</presure>
+        <speed>0
+</speed>
+    </date>
+    <date>
+        1961030106
+        <x>100</x>
+        <y>1310</y>
+        <level>0</level>
+        <presure>1006</presure>
+        <speed>0
+</speed>
+    </date>
+</wind>

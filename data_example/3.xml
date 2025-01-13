@@ -1,0 +1,418 @@
+<?xml version="1.0" ?>
+<wind>
+    Tess
+    <date>
+        1961032206
+        <x>76</x>
+        <y>1479</y>
+        <level>0</level>
+        <presure>1008</presure>
+        <speed>0
+</speed>
+    </date>
+    <date>
+        1961032212
+        <x>75</x>
+        <y>1471</y>
+        <level>0</level>
+        <presure>1008</presure>
+        <speed>0
+</speed>
+    </date>
+    <date>
+        1961032218
+        <x>75</x>
+        <y>1462</y>
+        <level>0</level>
+        <presure>1008</presure>
+        <speed>0
+</speed>
+    </date>
+    <date>
+        1961032300
+        <x>77</x>
+        <y>1455</y>
+        <level>0</level>
+        <presure>1008</presure>
+        <speed>0
+</speed>
+    </date>
+    <date>
+        1961032306
+        <x>82</x>
+        <y>1454</y>
+        <level>0</level>
+        <presure>1007</presure>
+        <speed>0
+</speed>
+    </date>
+    <date>
+        1961032312
+        <x>86</x>
+        <y>1453</y>
+        <level>1</level>
+        <presure>1006</presure>
+        <speed>15
+</speed>
+    </date>
+    <date>
+        1961032318
+        <x>90</x>
+        <y>1448</y>
+        <level>1</level>
+        <presure>1006</presure>
+        <speed>15
+</speed>
+    </date>
+    <date>
+        1961032400
+        <x>90</x>
+        <y>1442</y>
+        <level>2</level>
+        <presure>1005</presure>
+        <speed>20
+</speed>
+    </date>
+    <date>
+        1961032406
+        <x>88</x>
+        <y>1437</y>
+        <level>2</level>
+        <presure>1004</presure>
+        <speed>20
+</speed>
+    </date>
+    <date>
+        1961032412
+        <x>87</x>
+        <y>1427</y>
+        <level>3</level>
+        <presure>1001</presure>
+        <speed>25
+</speed>
+    </date>
+    <date>
+        1961032418
+        <x>87</x>
+        <y>1414</y>
+        <level>3</level>
+        <presure>997</presure>
+        <speed>30
+</speed>
+    </date>
+    <date>
+        1961032500
+        <x>88</x>
+        <y>1401</y>
+        <level>4</level>
+        <presure>994</presure>
+        <speed>35
+</speed>
+    </date>
+    <date>
+        1961032506
+        <x>90</x>
+        <y>1390</y>
+        <level>4</level>
+        <presure>991</presure>
+        <speed>35
+</speed>
+    </date>
+    <date>
+        1961032512
+        <x>92</x>
+        <y>1380</y>
+        <level>4</level>
+        <presure>986</presure>
+        <speed>40
+</speed>
+    </date>
+    <date>
+        1961032518
+        <x>95</x>
+        <y>1371</y>
+        <level>4</level>
+        <presure>981</presure>
+        <speed>40
+</speed>
+    </date>
+    <date>
+        1961032600
+        <x>98</x>
+        <y>1363</y>
+        <level>4</level>
+        <presure>977</presure>
+        <speed>40
+</speed>
+    </date>
+    <date>
+        1961032606
+        <x>104</x>
+        <y>1360</y>
+        <level>4</level>
+        <presure>975</presure>
+        <speed>40
+</speed>
+    </date>
+    <date>
+        1961032612
+        <x>110</x>
+        <y>1358</y>
+        <level>5</level>
+        <presure>970</presure>
+        <speed>45
+</speed>
+    </date>
+    <date>
+        1961032618
+        <x>115</x>
+        <y>1356</y>
+        <level>5</level>
+        <presure>963</presure>
+        <speed>45
+</speed>
+    </date>
+    <date>
+        1961032700
+        <x>120</x>
+        <y>1354</y>
+        <level>5</level>
+        <presure>954</presure>
+        <speed>50
+</speed>
+    </date>
+    <date>
+        1961032706
+        <x>124</x>
+        <y>1352</y>
+        <level>6</level>
+        <presure>945</presure>
+        <speed>55
+</speed>
+    </date>
+    <date>
+        1961032712
+        <x>128</x>
+        <y>1352</y>
+        <level>6</level>
+        <presure>945</presure>
+        <speed>55
+</speed>
+    </date>
+    <date>
+        1961032718
+        <x>133</x>
+        <y>1355</y>
+        <level>6</level>
+        <presure>945</presure>
+        <speed>55
+</speed>
+    </date>
+    <date>
+        1961032800
+        <x>136</x>
+        <y>1356</y>
+        <level>6</level>
+        <presure>945</presure>
+        <speed>55
+</speed>
+    </date>
+    <date>
+        1961032806
+        <x>140</x>
+        <y>1356</y>
+        <level>6</level>
+        <presure>943</presure>
+        <speed>60
+</speed>
+    </date>
+    <date>
+        1961032812
+        <x>144</x>
+        <y>1355</y>
+        <level>6</level>
+        <presure>941</presure>
+        <speed>65
+</speed>
+    </date>
+    <date>
+        1961032818
+        <x>148</x>
+        <y>1352</y>
+        <level>6</level>
+        <presure>941</presure>
+        <speed>65
+</speed>
+    </date>
+    <date>
+        1961032900
+        <x>152</x>
+        <y>1349</y>
+        <level>6</level>
+        <presure>943</presure>
+        <speed>60
+</speed>
+    </date>
+    <date>
+        1961032906
+        <x>157</x>
+        <y>1346</y>
+        <level>6</level>
+        <presure>949</presure>
+        <speed>60
+</speed>
+    </date>
+    <date>
+        1961032912
+        <x>164</x>
+        <y>1346</y>
+        <level>6</level>
+        <presure>954</presure>
+        <speed>55
+</speed>
+    </date>
+    <date>
+        1961032918
+        <x>170</x>
+        <y>1346</y>
+        <level>6</level>
+        <presure>959</presure>
+        <speed>55
+</speed>
+    </date>
+    <date>
+        1961033000
+        <x>177</x>
+        <y>1346</y>
+        <level>5</level>
+        <presure>967</presure>
+        <speed>50
+</speed>
+    </date>
+    <date>
+        1961033006
+        <x>186</x>
+        <y>1345</y>
+        <level>4</level>
+        <presure>980</presure>
+        <speed>40
+</speed>
+    </date>
+    <date>
+        1961033012
+        <x>198</x>
+        <y>1343</y>
+        <level>3</level>
+        <presure>991</presure>
+        <speed>30
+</speed>
+    </date>
+    <date>
+        1961033018
+        <x>210</x>
+        <y>1350</y>
+        <level>3</level>
+        <presure>996</presure>
+        <speed>25
+</speed>
+    </date>
+    <date>
+        1961033100
+        <x>220</x>
+        <y>1362</y>
+        <level>1</level>
+        <presure>1003</presure>
+        <speed>15
+</speed>
+    </date>
+    <date>
+        1961033106
+        <x>229</x>
+        <y>1379</y>
+        <level>9</level>
+        <presure>1010</presure>
+        <speed>15
+</speed>
+    </date>
+    <date>
+        1961033112
+        <x>234</x>
+        <y>1398</y>
+        <level>9</level>
+        <presure>1012</presure>
+        <speed>0
+</speed>
+    </date>
+    <date>
+        1961033118
+        <x>237</x>
+        <y>1414</y>
+        <level>9</level>
+        <presure>1012</presure>
+        <speed>0
+</speed>
+    </date>
+    <date>
+        1961040100
+        <x>240</x>
+        <y>1430</y>
+        <level>9</level>
+        <presure>1012</presure>
+        <speed>0
+</speed>
+    </date>
+    <date>
+        1961040106
+        <x>245</x>
+        <y>1447</y>
+        <level>9</level>
+        <presure>1012</presure>
+        <speed>0
+</speed>
+    </date>
+    <date>
+        1961040112
+        <x>257</x>
+        <y>1469</y>
+        <level>9</level>
+        <presure>1012</presure>
+        <speed>0
+</speed>
+    </date>
+    <date>
+        1961040118
+        <x>272</x>
+        <y>1495</y>
+        <level>9</level>
+        <presure>1012</presure>
+        <speed>0
+</speed>
+    </date>
+    <date>
+        1961040200
+        <x>290</x>
+        <y>1530</y>
+        <level>9</level>
+        <presure>1012</presure>
+        <speed>0
+</speed>
+    </date>
+    <date>
+        1961040206
+        <x>310</x>
+        <y>1570</y>
+        <level>9</level>
+        <presure>1010</presure>
+        <speed>0
+</speed>
+    </date>
+    <date>
+        1961040212
+        <x>317</x>
+        <y>1603</y>
+        <level>9</level>
+        <presure>1010</presure>
+        <speed>0
+</speed>
+    </date>
+</wind>

@@ -1,0 +1,256 @@
+<?xml version="1.0" ?>
+<wind>
+    Rita
+    <date>
+        1961011312
+        <x>70</x>
+        <y>1410</y>
+        <level>0</level>
+        <presure>1005</presure>
+        <speed>0
+</speed>
+    </date>
+    <date>
+        1961011318
+        <x>73</x>
+        <y>1394</y>
+        <level>0</level>
+        <presure>1002</presure>
+        <speed>0
+</speed>
+    </date>
+    <date>
+        1961011400
+        <x>75</x>
+        <y>1376</y>
+        <level>0</level>
+        <presure>1002</presure>
+        <speed>0
+</speed>
+    </date>
+    <date>
+        1961011406
+        <x>76</x>
+        <y>1365</y>
+        <level>1</level>
+        <presure>1000</presure>
+        <speed>15
+</speed>
+    </date>
+    <date>
+        1961011412
+        <x>80</x>
+        <y>1354</y>
+        <level>1</level>
+        <presure>1000</presure>
+        <speed>15
+</speed>
+    </date>
+    <date>
+        1961011418
+        <x>84</x>
+        <y>1339</y>
+        <level>1</level>
+        <presure>1000</presure>
+        <speed>15
+</speed>
+    </date>
+    <date>
+        1961011500
+        <x>91</x>
+        <y>1326</y>
+        <level>1</level>
+        <presure>1002</presure>
+        <speed>15
+</speed>
+    </date>
+    <date>
+        1961011506
+        <x>94</x>
+        <y>1323</y>
+        <level>1</level>
+        <presure>1002</presure>
+        <speed>15
+</speed>
+    </date>
+    <date>
+        1961011512
+        <x>97</x>
+        <y>1321</y>
+        <level>1</level>
+        <presure>1000</presure>
+        <speed>15
+</speed>
+    </date>
+    <date>
+        1961011518
+        <x>99</x>
+        <y>1319</y>
+        <level>1</level>
+        <presure>1000</presure>
+        <speed>15
+</speed>
+    </date>
+    <date>
+        1961011600
+        <x>102</x>
+        <y>1318</y>
+        <level>2</level>
+        <presure>999</presure>
+        <speed>20
+</speed>
+    </date>
+    <date>
+        1961011606
+        <x>106</x>
+        <y>1318</y>
+        <level>2</level>
+        <presure>996</presure>
+        <speed>20
+</speed>
+    </date>
+    <date>
+        1961011612
+        <x>111</x>
+        <y>1321</y>
+        <level>2</level>
+        <presure>998</presure>
+        <speed>20
+</speed>
+    </date>
+    <date>
+        1961011618
+        <x>115</x>
+        <y>1325</y>
+        <level>2</level>
+        <presure>998</presure>
+        <speed>20
+</speed>
+    </date>
+    <date>
+        1961011700
+        <x>118</x>
+        <y>1332</y>
+        <level>1</level>
+        <presure>1000</presure>
+        <speed>15
+</speed>
+    </date>
+    <date>
+        1961011706
+        <x>120</x>
+        <y>1339</y>
+        <level>1</level>
+        <presure>1000</presure>
+        <speed>15
+</speed>
+    </date>
+    <date>
+        1961011712
+        <x>122</x>
+        <y>1347</y>
+        <level>1</level>
+        <presure>1002</presure>
+        <speed>15
+</speed>
+    </date>
+    <date>
+        1961011718
+        <x>123</x>
+        <y>1355</y>
+        <level>1</level>
+        <presure>1002</presure>
+        <speed>15
+</speed>
+    </date>
+    <date>
+        1961011800
+        <x>124</x>
+        <y>1362</y>
+        <level>1</level>
+        <presure>1002</presure>
+        <speed>15
+</speed>
+    </date>
+    <date>
+        1961011806
+        <x>125</x>
+        <y>1370</y>
+        <level>1</level>
+        <presure>1000</presure>
+        <speed>15
+</speed>
+    </date>
+    <date>
+        1961011812
+        <x>126</x>
+        <y>1379</y>
+        <level>1</level>
+        <presure>1000</presure>
+        <speed>15
+</speed>
+    </date>
+    <date>
+        1961011818
+        <x>128</x>
+        <y>1389</y>
+        <level>1</level>
+        <presure>1002</presure>
+        <speed>15
+</speed>
+    </date>
+    <date>
+        1961011900
+        <x>132</x>
+        <y>1397</y>
+        <level>1</level>
+        <presure>1002</presure>
+        <speed>15
+</speed>
+    </date>
+    <date>
+        1961011906
+        <x>135</x>
+        <y>1403</y>
+        <level>1</level>
+        <presure>1002</presure>
+        <speed>15
+</speed>
+    </date>
+    <date>
+        1961011912
+        <x>139</x>
+        <y>1411</y>
+        <level>0</level>
+        <presure>1004</presure>
+        <speed>10
+</speed>
+    </date>
+    <date>
+        1961011918
+        <x>143</x>
+        <y>1418</y>
+        <level>0</level>
+        <presure>1004</presure>
+        <speed>10
+</speed>
+    </date>
+    <date>
+        1961012000
+        <x>147</x>
+        <y>1425</y>
+        <level>0</level>
+        <presure>1004</presure>
+        <speed>10
+</speed>
+    </date>
+    <date>
+        1961012006
+        <x>150</x>
+        <y>1435</y>
+        <level>0</level>
+        <presure>1004</presure>
+        <speed>10
+</speed>
+    </date>
+</wind>
