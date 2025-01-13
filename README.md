@@ -12,3 +12,5 @@
 * ![Figure_3](https://github.com/user-attachments/assets/721abe7c-1b45-4578-ac95-c99368d9dbe9)
 * Tsne Result
 * ![Figure_2](https://github.com/user-attachments/assets/3641eca4-2475-4ef9-b69b-f4634d1f71ad)
+# Typoon path after classified
+* ![Figure_4](https://github.com/user-attachments/assets/391c8c5f-9175-4783-b955-295d8762c0b2)
